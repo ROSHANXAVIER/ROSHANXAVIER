@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on personal projects .<br>👯 Freelance<br>🌱 Expertising MERN STACK<br>⚡ ADAPTABLE
+🔭 I’m currently working on personal projects .<br>👯 Freelance<br>🌱 Expertising MERN STACK<br>⚡ ADAPTABLE<br><br><br>WORK EXPERIENCE :<br>https://www.linkedin.com/in/roshan-xavier-1ab097214/
 
 
 ## 🌐 Socials:
